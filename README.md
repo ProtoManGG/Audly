@@ -44,3 +44,9 @@ An audiobook player inspired by ios books and audio book player for android.
 - What is outer layer aka presentation of my application ?
   - Its is very simple and several constraints have been mentioned at the top most level
   - Will try to add screenshots of relevance whenever possible
+
+## Plan of Action
+
+Let's try to follow Reso Coder's DDD Pattern and start with the AudioBook Entity
+We'll also try to have 100% code coverage with tests and try Golden tests and Responsive UI in future
+But one step at a time is the key.
