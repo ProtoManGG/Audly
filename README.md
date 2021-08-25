@@ -50,3 +50,5 @@ An audiobook player inspired by ios books and audio book player for android.
 Let's try to follow Reso Coder's DDD Pattern and start with the AudioBook Entity
 We'll also try to have 100% code coverage with tests and try Golden tests and Responsive UI in future
 But one step at a time is the key.
+
+Validate Domain by lets chap chapter 2 start after time of chapter 1 end
